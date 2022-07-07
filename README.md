@@ -1,6 +1,6 @@
 # AAFL
 AAFL: automatic association feature learning for gene signature identification of cancer subtypes in single-cell RNA-seq data
-![](https://github.com/linxi159/AAFL/blob/master/figures/AAFL.jpg) 
+![](https://github.com/linxi159/AAFL/tree/main/figures/AAFL.tif) 
 
 ## Description of each directory
 data: the preprocessed data from real scRNA-seq data in GEO.
@@ -27,7 +27,7 @@ figures: the plot for AAFL.
 * scipy
 
 
-## Quick example to use SRAFL
+## Quick example to use AAFL
 ```
 * train and test the model:
 
